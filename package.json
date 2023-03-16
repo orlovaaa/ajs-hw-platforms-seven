@@ -1,0 +1,23 @@
+{
+  "name": "ajs-hw-platforms-seven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlovaaa/ajs-hw-platforms-seven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlovaaa/ajs-hw-platforms-seven/issues"
+  },
+  "homepage": "https://github.com/orlovaaa/ajs-hw-platforms-seven#readme",
+  "dependencies": {
+    "@orlovaaa/ajs-hw-platforms": "^1.0.0"
+  }
+}
